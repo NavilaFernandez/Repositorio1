@@ -11,8 +11,7 @@
        font-style: normal;
        }
 
-        @rosa: pink;
-       @border: rgb(229, 138, 187);
+      
      
 *{
 
@@ -55,7 +54,7 @@
    text-align: justify;
    line-height: 1.5em;
    color: rgb(35, 42, 101);
-   background-color: @rosa;
+   background-color: pink;
    border-color: rgba(38, 22, 69, 0.322);
    border-width: 3px;
    border-style: dashed;
@@ -80,7 +79,7 @@
    width: 400px;  
    border-radius: 20%;   
    border-style: solid;
-   border-color: @border;
+   border-color: rgb(229, 138, 187);
    border-width: 3px;
    border-style: dashed;
         
@@ -93,7 +92,7 @@
    width: 100px;  
    border-radius: 20%;   
    border-style: solid;
-   border-color:  @border;
+   border-color: rgb(229, 138, 187);
    border-width: 3px;
    border-style: dashed;
         
